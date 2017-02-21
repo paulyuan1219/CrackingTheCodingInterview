@@ -1,8 +1,8 @@
 import sys
 
 def func_2_1(str1, str2):
-    s1 = str1.sort()
-    s2 = str2.sort()
+    s1 = sorted(str1)
+    s2 = sorted(str2)
     
     if s1==s2:
         return True
