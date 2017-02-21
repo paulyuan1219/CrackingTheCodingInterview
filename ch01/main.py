@@ -48,7 +48,7 @@ def func_1_2(str):
         return False
     
     for i in range(len(str)-1):
-        for j in range(i+1, len(str):
+        for j in range(i+1, len(str)):
             if(str[i] == str[j]): return False
     return True
                        
