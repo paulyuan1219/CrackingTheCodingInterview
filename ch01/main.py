@@ -23,6 +23,24 @@ def call_func_1_1():
         print(result)
         print("\n")
         
+def func_1_2(str):
+    """
+    check for unique chars
+    """
+    if(len(str)==0):
+        return False
+    
+    for i in range(len(str)-1):
+        for j in range(i+1, len(str):
+            if(str[i] == str[j]): return False
+    return True
+                       
+def call_func_1_2():
+    while(True):
+        str = raw_input("Please input a string:\n")
+        result = func_1_2(str)
+        print(result)
+        print("\n")
 
 
 def main():
