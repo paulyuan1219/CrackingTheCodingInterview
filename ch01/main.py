@@ -44,7 +44,7 @@ def call_func_1_2():
 
 
 def main():
-    call_func_1_1()
+    call_func_1_2()
 
 if __name__ == "__main__":
     main()
