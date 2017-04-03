@@ -9,4 +9,7 @@
 > http://www.jb51.net/article/55968.htm 
 
 
+#### 算法
+
+> [算法导论笔记汇总](https://www.roading.org/algorithm/introductiontoalgorithm/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA%E7%B4%A2%E5%BC%95%E8%A1%A8.html)
 
