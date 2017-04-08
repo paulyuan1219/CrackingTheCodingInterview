@@ -1,3 +1,5 @@
+### [背包问题](http://www.csegeek.com/csegeek/view/tutorials/algorithms/dynamic_prog/dp_part7.php)
+
 ### 青蛙问题
 [原文](http://blog.csdn.net/hackbuteer1/article/details/6686747)
 题目1：一个台阶总共有n级，如果一次可以跳1级，也可以跳2级。求总共有多少总跳法，并分析算法的时间复杂度。
