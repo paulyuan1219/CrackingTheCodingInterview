@@ -9,6 +9,10 @@
 > http://www.jb51.net/article/55968.htm 
 
 
+#### 模板类
+> [模板类访问父类问题](http://www.cppblog.com/fwxjj/archive/2012/03/04/167096.html)
+
+
 #### 算法
 
 > [算法导论笔记汇总](https://www.roading.org/algorithm/introductiontoalgorithm/%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA%E7%B4%A2%E5%BC%95%E8%A1%A8.html)
