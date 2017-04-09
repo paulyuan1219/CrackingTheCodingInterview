@@ -20,3 +20,5 @@
 
 
 > [背包问题](http://www.mathcs.emory.edu/~cheung/Courses/323/Syllabus/DynProg/knapsack2.html)
+
+> [Print all paths from a given source to a destination](http://www.geeksforgeeks.org/find-paths-given-source-destination/)
