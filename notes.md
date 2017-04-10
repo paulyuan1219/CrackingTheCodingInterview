@@ -22,3 +22,5 @@
 > [背包问题](http://www.mathcs.emory.edu/~cheung/Courses/323/Syllabus/DynProg/knapsack2.html)
 
 > [Print all paths from a given source to a destination](http://www.geeksforgeeks.org/find-paths-given-source-destination/)
+
+> [求两点之间所有路径的算法 亲测有效](http://www.cnblogs.com/finallyliuyu/archive/2011/04/18/2019534.html)
