@@ -24,3 +24,7 @@
 > [Print all paths from a given source to a destination](http://www.geeksforgeeks.org/find-paths-given-source-destination/)
 
 > [求两点之间所有路径的算法 亲测有效](http://www.cnblogs.com/finallyliuyu/archive/2011/04/18/2019534.html)
+
+#### C++
+
+> [Google 开源项目风格指南 ](http://zh-google-styleguide.readthedocs.io/en/latest/google-cpp-styleguide/contents/#c)
