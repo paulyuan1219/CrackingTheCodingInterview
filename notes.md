@@ -12,6 +12,8 @@
 #### 模板类
 > [模板类访问父类问题](http://www.cppblog.com/fwxjj/archive/2012/03/04/167096.html)
 
+> [模板类的子类访问不到父类的成员变量问题](http://www.cppblog.com/fwxjj/archive/2012/03/04/167096.html)
+
 
 #### 算法
 
